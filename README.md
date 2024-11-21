@@ -165,5 +165,4 @@ After following the setup instructions, you can access the application by naviga
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### NOTE: This Application Should not be used for commercial purpose by anyone else other than DevOps Shack
 
